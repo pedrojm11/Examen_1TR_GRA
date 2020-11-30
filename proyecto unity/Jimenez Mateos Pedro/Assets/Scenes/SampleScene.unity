@@ -347,7 +347,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff040f2329c59d74f938d6518b70d50f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MyColumn: {fileID: 370677162}
+  Cylinder: {fileID: 0}
   RefPos: {fileID: 1224823029}
   distobstacle: 0
 --- !u!1 &1224823028
